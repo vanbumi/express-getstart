@@ -27,3 +27,17 @@ Run the app with command:
 	$ node app.js
 
 and then Open http://localhost:8000	
+
+## Express application generator
+
+Use the application generator tool, express, to quickly create an application skeleton.
+
+Install express with the following command:
+
+	$ sudo npm install express-generator -g
+
+Display the command options with the -h option:
+
+For example, the following creates an Express app named myapp in the current working directory:
+
+	
